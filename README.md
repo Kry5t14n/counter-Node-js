@@ -1,3 +1,7 @@
-This is my first project made with node.js
+Simple counter
 
-still in progress...
+Technologies used:
+- HTML
+- CSS
+- Javascript
+- Node.js
